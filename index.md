@@ -1,7 +1,5 @@
 <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<head>
- <link rel='stylesheet' href='index.css' type='text' />
-</head>
+<link rel='stylesheet' href='index.css' type='text' />
  
 
 <div class="topnav">
